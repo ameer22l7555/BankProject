@@ -1,0 +1,5 @@
+﻿  Program.cpp
+C:\Users\Aums tech\source\repos\BankProject\BankProject\Header.h(443,1): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  (compiling source file 'Program.cpp')
+  
+  BankProject.vcxproj -> C:\Users\Aums tech\source\repos\BankProject\x64\Debug\BankProject.exe
